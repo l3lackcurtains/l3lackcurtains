@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=l3lackcurtains&show_icons=true&theme=tokyonight)](https://github.com/l3lackcurtains/github-readme-stats)
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=l3lackcurtains&show_icons=true&theme=tokyonight)](https://github.com/l3lackcurtains)
 
 - 💻 I'm a Full Stack Developer.
 - 🔭 I build things that makes a difference.
