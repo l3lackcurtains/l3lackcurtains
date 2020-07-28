@@ -7,7 +7,7 @@
 - ✉️ Feel free to get in [touch](mailto:l3lackcurtains@gmail.com) with me.
 - ▶️ Check [crumet studio](https://crumet.com/) for more of my works.
 
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=l3lackcurtains&show_icons=true&hide_border=true)](https://github.com/l3lackcurtains)
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=l3lackcurtains&show_icons=true&hide_border=true">
 
 [![Website Badge](https://img.shields.io/badge/-crumet-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://crumet)](https://crumet.com)
 [![Linkedin Badge](https://img.shields.io/badge/-l3lackcurtains-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l3lackcurtains/)](https://www.linkedin.com/in/l3lackcurtains/)
