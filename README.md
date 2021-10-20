@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">
 
 - 💻 Full Stack Developer equipped with diverse and promising skill sets
 - 💜 Love to build things that makes a difference
@@ -15,5 +15,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@l3lackcurtains-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/l3lackcurtains/)](https://instagram.com/l3lackcurtains)
 [![Gmail Badge](https://img.shields.io/badge/-l3lackcurtains-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:l3lackcurtains@protonmail.com)](mailto:l3lackcurtains@protonmail.com)
 
- #### Profile Views
- <img src="https://profile-counter.glitch.me/l3lackcurtains/count.svg" />
+<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=l3lackcurtains&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
