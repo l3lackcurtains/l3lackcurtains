@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">
+### Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px">
 
 - 💻 Full Stack Software Engineer equipped with diverse and promising skill sets.
 - 💜 Love to build things that makes a difference.
