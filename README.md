@@ -7,7 +7,6 @@
 - ▶️ Check more of my works [here](https://madhavpoudel.com.np/).
 
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=l3lackcurtains&show_icons=true&hide_border=true&theme=tokyonight" alt="Github Stats">
 
 [![Linkedin Badge](https://img.shields.io/badge/-l3lackcurtains-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l3lackcurtains/)](https://www.linkedin.com/in/l3lackcurtains/)
 [![Twitter Badge](https://img.shields.io/badge/-@l3lackcurtains-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/l3lackcurtains)](https://twitter.com/l3lackcurtains)
