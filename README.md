@@ -4,8 +4,6 @@
 - 💜 Love to build things that makes a difference.
 - ⚡ Works with tech entrepreneurs around the world building remarkable products.
 - ✉️ Feel free to get in [touch](mailto:l3lackcurtains@gmail.com) with me.
-- ▶️ Check more of my works [here](https://madhavpoudel.com.np/).
-
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-l3lackcurtains-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l3lackcurtains/)](https://www.linkedin.com/in/l3lackcurtains/)
