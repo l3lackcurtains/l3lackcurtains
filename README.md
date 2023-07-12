@@ -1,9 +1,9 @@
 ### Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px">
 
-- 💻 Full Stack Software Engineer equipped with diverse and promising skill sets.
-- 💜 Love to build things that makes a difference.
-- ⚡ Works with tech entrepreneurs around the world building remarkable products.
-- ✉️ Feel free to get in [touch](mailto:l3lackcurtains@gmail.com) with me.
+- 💻 Experienced Full Stack Software Engineer adept at tackling complex development challenges with a diverse skill set.
+- 💜 Passionate about creating impactful solutions that make a difference in the world, driven by a strong desire to contribute to positive change through technology.
+- ⚡ Proven track record of collaborating with tech entrepreneurs globally to develop remarkable products, bringing vision to reality and delivering outstanding results.
+- ✉️ Open to new opportunities and collaborations. Feel free to reach out via [email](mailto:l3lackcurtains@gmail.com) to discuss how I can contribute to your organization's success.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-l3lackcurtains-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l3lackcurtains/)](https://www.linkedin.com/in/l3lackcurtains/)
