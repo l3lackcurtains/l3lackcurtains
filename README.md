@@ -1,27 +1,23 @@
 ### Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px">  
 
-```javascript
-const aboutMe = {
-  role: "👨‍💻 Full Stack Software Engineer",
-  exploring: ["⛓️ Blockchain", "☁️ Cloud Infrastructure", "🤖 Machine Learning", "🔗 Distributed Systems", "🔐 Cryptography"],
-  skills: {
-    programmingLanguages: ["💻 JavaScript", "💻 TypeScript", "🐍 Python", "🔒 Solidity", "🐹 Golang", "🦀 Rust"],
-    frameworks: ["⚛️ React", "⚡ Next.js", "🔥 Vue.js", "🟩 Node.js", "🚀 Express.js", "🌟 Nest.js"],
-    databases: ["🐘 PostgreSQL", "🍃 MongoDB", "🔑 Redis"],
-    tools: ["🐳 Docker", "☸️ Kubernetes", "🔗 Kafka", "🌍 Terraform", "🔧 Ansible", "📊 Grafana", "🛠️ Hardhat", "⚓ Anchor"],
-    cloudPlatforms: ["☁️ AWS", "☁️ GCP"],
-    apis: ["📡 REST API", "🚀 GraphQL"],
-    developmentPractices: ["⚙️ Lean", "📈 Agile", "🚀 DevOps", "🔄 CI/CD", "🔗 Git"]
-  },
-  passion: "💡 Innovating scalable solutions, 🔧 solving complex challenges, 🌍 driving impact, 👥 putting users first",
-  openTo: ["🤝 Collaborations", "💬 Technical discussions", "✨ Exciting opportunities"]
-};
+```plaintext
+👨‍💻 Full Stack Software Engineer exploring:  
+⛓️ Blockchain • ☁️ Cloud Infrastructure • 🤖 Machine Learning • 🔗 Distributed Systems • 🔐 Cryptography  
 
-console.log("Let's connect and create something impactful!");
+Skills:
+- Programming Languages: 💻 JavaScript • 💻 TypeScript • 🐍 Python • 🔒 Solidity • 🐹 Golang • 🦀 Rust  
+- Frameworks: ⚛️ React • ⚡ Next.js • 🔥 Vue.js • 🟩 Node.js • 🚀 Express.js • 🌟 Nest.js  
+- Databases: 🐘 PostgreSQL • 🍃 MongoDB • 🔑 Redis  
+- Tools: 🐳 Docker • ☸️ Kubernetes • 🔗 Kafka • 🌍 Terraform • 🔧 Ansible • 📊 Grafana • 🛠️ Hardhat • ⚓ Anchor  
+- Cloud Platforms: ☁️ AWS • ☁️ GCP  
+- APIs: 📡 REST API • 🚀 GraphQL  
+- Development Practices: ⚙️ Lean • 📈 Agile • 🚀 DevOps • 🔄 CI/CD • 🔗 Git  
+
+Passion:  
+💡 Innovating scalable solutions • 🔧 Solving complex challenges • 🌍 Driving impact • 👥 Putting users first  
 ```
 
 ### 💬 Reach Out  
-
 <div align="center">
   <a href="https://www.linkedin.com/in/l3lackcurtains/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
