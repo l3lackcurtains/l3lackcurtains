@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px">  
-
 ```plaintext
-👨‍💻 Full Stack Software Engineer exploring:  
+👨‍💻 I an a Full Stack Software Engineer exploring:
+
 ⛓️ Blockchain • ☁️ Cloud Infrastructure • 🤖 Machine Learning • 🔗 Distributed Systems • 🔐 Cryptography  
 
 Skills:
@@ -16,8 +16,6 @@ Skills:
 Passion:  
 💡 Innovating scalable solutions • 🔧 Solving complex challenges • 🌍 Driving impact • 👥 Putting users first  
 ```
-
-### 💬 Reach Out  
 <div align="center">
   <a href="https://www.linkedin.com/in/l3lackcurtains/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
