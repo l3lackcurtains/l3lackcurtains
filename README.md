@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px">  
 ```plaintext
-👨‍💻 I an a Full Stack Software Engineer exploring:
+👨‍💻 I am a Full Stack Software Engineer exploring:
 
 ⛓️ Blockchain • ☁️ Cloud Infrastructure • 🤖 Machine Learning • 🔗 Distributed Systems • 🔐 Cryptography  
 
