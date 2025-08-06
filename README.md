@@ -1,32 +1,23 @@
-### Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px">  
-```plaintext
-👨‍💻 I am a Full Stack Software Engineer exploring:
+👨‍💻 I am a Senior Full Stack Software Engineer building:
 
-⛓️ Blockchain • ☁️ Cloud Infrastructure • 🤖 Machine Learning • 🔗 Distributed Systems • 🔐 Cryptography  
+🤖 AI-Powered Systems • ⛓️ Blockchain Ecosystems • ☁️ Cloud Infrastructure • 🔗 Distributed Systems • 🔐 Cryptography • 🧠 LLM Apps  
 
 Skills:
 - Programming Languages: 💻 JavaScript • 💻 TypeScript • 🐍 Python • 🔒 Solidity • 🐹 Golang • 🦀 Rust  
 - Frameworks: ⚛️ React • ⚡ Next.js • 🔥 Vue.js • 🟩 Node.js • 🚀 Express.js • 🌟 Nest.js  
-- Databases: 🐘 PostgreSQL • 🍃 MongoDB • 🔑 Redis  
-- Tools: 🐳 Docker • ☸️ Kubernetes • 🔗 Kafka • 🌍 Terraform • 🔧 Ansible • 📊 Grafana • 🛠️ Hardhat • ⚓ Anchor  
-- Cloud Platforms: ☁️ AWS • ☁️ GCP  
-- APIs: 📡 REST API • 🚀 GraphQL  
-- Development Practices: ⚙️ Lean • 📈 Agile • 🚀 DevOps • 🔄 CI/CD • 🔗 Git  
+- Databases: 🐘 PostgreSQL • 🍃 MongoDB • 🔑 Redis • 🧮 **MySQL**  
+- Tools: 🐳 Docker • ☸️ Kubernetes • 🔗 Kafka • 📉 BullMQ • ⚙️ Hardhat • ⚓ Anchor • 🧪 Playwright • 📜 **Documentation**  
+- Cloud Platforms: ☁️ AWS • ☁️ **Google Cloud (GCP)**  
+- APIs & Data: 📡 REST API • 🚀 GraphQL • 🧠 RAG Pipelines • 🧭 LangChain • 🧬 Vector DBs (Pinecone, Milvus)  
+- AI & ML: 🤖 OpenAI • 🧠 Mistral • 🦙 LLaMA • 🎙️ TTS • 🖼️ Stable Diffusion • 🎞️ Animation Pipelines  
+- Dev Practices: ⚙️ Lean • 📈 Agile / **Scrum** • 🚀 DevOps • 🔄 CI/CD • 🔗 Git  
+- Collaboration: 🤝 **Teamwork** • 📣 **Communication Skills** • 🧩 **Stakeholders** • 💬 **Collaborate**  
 
 Passion:  
-💡 Innovating scalable solutions • 🔧 Solving complex challenges • 🌍 Driving impact • 👥 Putting users first  
-```
-<div align="center">
-  <a href="https://www.linkedin.com/in/l3lackcurtains/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/l3lackcurtains" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/l3lackcurtains/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:l3lackcurtains@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+💡 Innovating scalable applications • 🔧 Solving complex challenges • 🌍 Building with purpose • 📦 Shipping high-impact products • 👥 Designing with user-first **usability**  
+
+Projects:
+- 🧰 Rarepad Marketplace — NFT marketplace optimized with Subgraph & BullMQ  
+- 🤖 Dev Tracker — AI agent generating PRs from GitHub issues using Claude & Golang  
+- 🔁 Lanthu Bot — Automated EVM & Solana trading bot using Uniswap/Raydium SDKs  
+
