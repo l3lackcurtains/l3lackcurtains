@@ -1,6 +1,6 @@
 👨‍💻 I’m a Senior Full Stack Software Engineer crafting:
 
-🤖 AI-powered apps • ⛓️ Blockchain ecosystems • ☁️ Cloud infrastructure • 🔗 Distributed systems • 🔐 Cryptographic solutions • 🧠 LLM-based tools  
+🤖 AI-powered apps • ⛓️ Blockchain ecosystems • ☁️ Cloud infrastructure • 🔗 Distributed systems
 
 🛠️ Skills:
 - 💻 Languages: JavaScript • TypeScript • Python • Solidity • Golang • Rust  
