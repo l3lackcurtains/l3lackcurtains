@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Madhav Poudel 👋</h1>
+<h1 align="center">Madhav Poudel</h1>
 <p align="center">
-  <b>Agentic Software Engineer · Fintech · Blockchain · AI/ML</b><br/>
+  <em>I don't pick a lane — I build the road.</em>
+</p>
+<p align="center">
   <a href="https://madhavpoudel.com.np">madhavpoudel.com.np</a> ·
   <a href="https://twitter.com/l3lackcurtains">@l3lackcurtains</a> ·
   <a href="https://linkedin.com/in/l3lackcurtains">LinkedIn</a>
@@ -8,9 +10,9 @@
 
 ---
 
-Building AI-powered apps, fintech systems, blockchain ecosystems, and distributed infrastructure — 10 years of full-stack engineering across web, cloud, and on-chain layers.
+10 years shipping production systems across AI, fintech, blockchain, and distributed infrastructure. From CUDA kernels and smart contracts to encrypted messengers and agentic trading platforms — I work where the stack gets interesting.
 
-**Currently:** Agentic Software Engineer @ crumet-tech
+**Currently shipping:** Autonomous software @ crumet-tech
 
 ---
 
