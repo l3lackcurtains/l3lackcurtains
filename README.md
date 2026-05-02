@@ -56,6 +56,8 @@ Building AI-powered apps, fintech systems, blockchain ecosystems, and distribute
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l3lackcurtains&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3lackcurtains&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=l3lackcurtains&theme=dark&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=l3lackcurtains&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
