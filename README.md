@@ -12,7 +12,7 @@
 
 10 years shipping production systems across AI, fintech, blockchain, and distributed infrastructure. From CUDA kernels and smart contracts to encrypted messengers and agentic trading platforms — I work where the stack gets interesting.
 
-**Currently shipping:** Autonomous software @ crumet-tech
+**Currently shipping:** Software 3.0 @ crumet-tech
 
 ---
 
